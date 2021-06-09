@@ -25,3 +25,6 @@ h3{
 ::-webkit-scrollbar-thumb:hover {
     background: #555;
 }
+
+/* code for have scroll bar with nothing in page */
+html {height:100.1%;}
